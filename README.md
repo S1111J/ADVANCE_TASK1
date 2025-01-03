@@ -7,3 +7,7 @@ ID: CT08DS422
 DOMAIN: PYTHON PROGRAMMING
 
 DURATION: DEC 2024 TO JAN 2025
+
+OUTPUT
+
+![image](https://github.com/user-attachments/assets/af562380-1bd8-4a00-950b-3f323fd11de0)
